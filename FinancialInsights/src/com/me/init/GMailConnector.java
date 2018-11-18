@@ -1,4 +1,4 @@
-package com.me.starter;
+package com.me.init;
 
 import java.util.Date;
 import java.util.Properties;
